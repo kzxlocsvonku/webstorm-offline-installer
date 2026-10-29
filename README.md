@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-JavaScript+IDE-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-IDE-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 WebStorm Free Installer** — WebStorm is JetBrains' JavaScript IDE with deep understanding of modern JavaScript, TypeScript, React, Vue, Angular, Node. Works without internet access, no account required. Full offline installation.
+**💻 WebStorm Free Installer** — WebStorm is JetBrains' JavaScript and TypeScript IDE with deep understanding of modern frameworks including React, Angular, and Vue. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About WebStorm
 
-WebStorm is JetBrains' JavaScript IDE with deep understanding of modern JavaScript, TypeScript, React, Vue, Angular, Node.js, and all major web technologies. Features include intelligent code completion, refactoring, debugging, HTTP client, and built-in version control. WebStorm's JavaScript analysis surpasses VS Code in accuracy for complex TypeScript projects at the cost of higher resource usage.
+WebStorm is JetBrains' JavaScript and TypeScript IDE with deep understanding of modern frameworks including React, Angular, and Vue. It provides intelligent code completion, refactoring, debugger, and test runner integration for frontend and Node.js development.
 
 ---
 
 ## ❌ Problem: WebStorm is hard to access
 
-- **Commercial License** — Requires paid JetBrains subscription
-- **Resource Demands** — Higher memory and CPU usage than VS Code
-- **VS Code Competition** — Many developers satisfied with free VS Code alternatives
-- **Startup Time** — Slower startup than text editor alternatives
+- **Paid Subscription** — No free community edition
+- **VS Code Competition** — VS Code with extensions matches most WebStorm features for free
+- **Resource Usage** — Heavier than lightweight JavaScript editors
+- **Niche Value** — Best value for heavy JavaScript/TypeScript development; overkill for occasional use
 
 ---
 
@@ -121,7 +121,7 @@ WebStorm is JetBrains' JavaScript IDE with deep understanding of modern JavaScri
 
 ---
 
-**WebStorm Free Installer** — WebStorm is JetBrains' JavaScript IDE with deep understanding of modern JavaScript, TypeScript, React, Vue, Angular, Node. Install without internet connection today!
+**WebStorm Free Installer** — WebStorm is JetBrains' JavaScript and TypeScript IDE with deep understanding of modern frameworks including React, Angular, and Vue. Install without internet connection today!
 
 <div align="center">
 
